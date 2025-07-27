@@ -1,5 +1,10 @@
 # 💫 About Me:
-currently working on MERN stack and AWS cloud<br>have hands-on experience in data science and machine learning<br>
+I'm a developer with a solid foundation in machine learning and data science, backed by a published research paper. My analytical and problem-solving skills, honed in the world of data, are now being applied to the cloud and full-stack development.
+
+-   🔭 I’m currently building scalable applications with the **MERN (MongoDB, Express.js, React, Node.js)** stack.
+-   ☁️ I'm also gaining hands-on experience with **AWS** for cloud deployment and infrastructure management.
+-   🌱 I'm passionate about leveraging data-driven insights to create robust and efficient software solutions.
+-   📫 Feel free to connect with me to discuss technology, collaboration, or new opportunities!
 
 
 ## 🌐 Socials:
